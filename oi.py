@@ -1,1 +1,0 @@
-print('olá raul gay')
