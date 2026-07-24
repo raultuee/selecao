@@ -13,7 +13,7 @@ cadastrar = st.button('Cadastrar cliente')
 if cadastrar:
     with open ('Cliente.csv','a', encoding='utf8') as arquivo:
         arquivo.write(f'{nome},{endereço},{dt_nas},{tipo_cliente}')
-        st.success('Cliente cadastrado com sucesso.')
+        st.success('Cadastro do viadin concedido.')
     
 
 
