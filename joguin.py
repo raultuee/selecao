@@ -18,8 +18,8 @@ import tkinter as tk
 import random
 
 # ------------------- Configuracoes -------------------
-LARGURA_TELA = 600
-ALTURA_TELA = 400
+LARGURA_TELA = 1000
+ALTURA_TELA = 1000
 TAMANHO_BLOCO = 20
 VELOCIDADE_INICIAL =100 # em milissegundos entre cada movimento (menor = mais rapido)
 
